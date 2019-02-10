@@ -1,3 +1,6 @@
+### Points: .5
+### KEY: Work incomplete
+
 # Introduction to jQuery Graded Classwork
 
 ## Use only jQuery to select elements, and jQuery 
